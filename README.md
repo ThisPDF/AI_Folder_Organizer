@@ -79,12 +79,6 @@ pip install -r requirements.txt
 
 ---
 
-## Screenshots
-
-Add screenshots of the GUI in both light and dark modes, illustrating key features like progress bars and organization.
-
----
-
 ## Contributing
 
 Feel free to fork this repository and make contributions. Submit pull requests with detailed descriptions of your changes.
